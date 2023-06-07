@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etag", "etag.csproj", "{5160DC32-1A4F-4EDA-8247-70B71438C203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5160DC32-1A4F-4EDA-8247-70B71438C203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5160DC32-1A4F-4EDA-8247-70B71438C203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5160DC32-1A4F-4EDA-8247-70B71438C203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5160DC32-1A4F-4EDA-8247-70B71438C203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67A25FD-68AB-4EC6-9261-F784C7CCA095}
+	EndGlobalSection
+EndGlobal
